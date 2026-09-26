@@ -11,4 +11,4 @@ $0.24/1k records at scale. Start with 1,000 free credits.
 
 [Python and Node.js examples](https://github.com/Mart-API/mart-examples)
 
-[Get an API key](https://mart.dev/signup/?utm_source=github&utm_medium=referral&utm_campaign=organization) · [Documentation](https://mart.dev/docs/) · [Support](mailto:support@mart.dev)
+[Get an API key](https://mart.dev) · [Documentation](https://mart.dev/docs/)
